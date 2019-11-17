@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartPax", "SmartPax.csproj", "{5EAD8E02-E222-42CE-90BA-6E4B697C3146}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Viaxox.Updater", "..\Viaxox.Updater\Viaxox.Updater.csproj", "{2A42D648-1AE2-491E-A515-368F446C33AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EAD8E02-E222-42CE-90BA-6E4B697C3146}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EAD8E02-E222-42CE-90BA-6E4B697C3146}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EAD8E02-E222-42CE-90BA-6E4B697C3146}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EAD8E02-E222-42CE-90BA-6E4B697C3146}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A42D648-1AE2-491E-A515-368F446C33AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A42D648-1AE2-491E-A515-368F446C33AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A42D648-1AE2-491E-A515-368F446C33AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A42D648-1AE2-491E-A515-368F446C33AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A2FC633-2A29-418C-BCCE-578CA807AFDE}
+	EndGlobalSection
+EndGlobal
