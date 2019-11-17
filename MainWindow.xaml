@@ -15,7 +15,7 @@
         <Image Source="images/Watermark1.jpg" Height="306" VerticalAlignment="Bottom"/>
 
         
-        <!--Wayne Was here-->
+        <!--Wayne Was here--> <!--test again-->
         <Rectangle Height="280" VerticalAlignment="Top">
             <Rectangle.Fill>
                 <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
